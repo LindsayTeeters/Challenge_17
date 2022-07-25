@@ -79,13 +79,13 @@ Jill with LendingClub has asked us to help her with evaluating models for credit
     - High Risk: .04%
     - Low Risk:   1%
 * Ensemble (EE AdaBoost Clas): 
-    - High Risk: 
-    - Low Risk:   
+    - High Risk: .07%
+    - Low Risk:   1%
 
 ----------------------------------------------------------------------------------------------------------------
 
 ## Summary
 
-The algorithms that had the best accuracy rate was the Easy Ensemble Adaboost with 93%. The runner up was Ensemble Balanced Random Forest Classifer with 78%
+The algorithms that had the best accuracy rate was the Easy Ensemble AdaBoost(EEAB) with 93%. The runner up was Ensemble Balanced Random Forest Classifer with 78%. The highest high-risk recalled loans was EEAB with 91%. The lowest high-risk recalled loans was SMOTE with 60%. The Easy Ensemble algorithms preformd much better than the others. A reccomendation that I would make would be to slightly adjust the classification on the Easy Ensembles.  
 
 

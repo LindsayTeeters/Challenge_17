@@ -1,3 +1,4 @@
 # Challenge_17
 
-![HeaderImage](https://github.com/LindsayTeeters/Challenge_17/blob/main/Resources/CreditRiskTiles.png)
+<img src="[https://github.com/favicon.ico](https://github.com/LindsayTeeters/Challenge_17/blob/main/Resources/CreditRiskTiles.png)" width="48">
+

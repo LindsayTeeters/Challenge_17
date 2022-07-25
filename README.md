@@ -16,11 +16,23 @@ Jill with LendingClub has asked us to help her with evaluating models for credit
 <b><i> Balanced Accuracy Scores </i></b>
 
 * Naive Random Oversampling(RandomOverS): 65%
+    ![Naive](https://github.com/LindsayTeeters/Challenge_17/blob/main/Resources/Oversampling%20Classification%20Report.png)
+    
 * Oversampling (SMOTE): 62%
+![SMOTE](https://github.com/LindsayTeeters/Challenge_17/blob/main/Resources/Smote%20Classification%20Report.png)
+
 * Undersampling (Cluster Centroids): 51%
+![Cluster](https://github.com/LindsayTeeters/Challenge_17/blob/main/Resources/Undersampling%20Imbalanced%20Classification%20Summary.png)
+
 * Combination (SMOTEENN): 51%
+![SMOTEENN](https://github.com/LindsayTeeters/Challenge_17/blob/main/Resources/Combo%20Clas%20Sum.png)
+
 * Ensemble (B Random Forest Clas): 78%
+![EBFC](https://github.com/LindsayTeeters/Challenge_17/blob/main/Resources/Risk%20Ensemble%20Classification%20Report.png)
+
 * Ensemble (EE AdaBoost Clas): 93%
+![EEADBC](https://github.com/LindsayTeeters/Challenge_17/blob/main/Resources/Risk%20Ensemble%20Classification%20Report.png)
+
 
 <b><i> Precision Scores </i></b>
 
@@ -33,6 +45,7 @@ Jill with LendingClub has asked us to help her with evaluating models for credit
 * Undersampling (Cluster Centroids): 
     - High Risk: .01%
     - Low Risk:   1%
+    ![Cluster](
 * Combination (SMOTEENN): 
     - High Risk: .01%
     - Low Risk:   1%
@@ -42,6 +55,7 @@ Jill with LendingClub has asked us to help her with evaluating models for credit
 * Ensemble (EE AdaBoost Clas): 
     - High Risk: .07%
     - Low Risk:   1%
+
 
 <b><i> Recall Scores </i></b>
 

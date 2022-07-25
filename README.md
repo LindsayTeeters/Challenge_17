@@ -34,7 +34,8 @@ Jill with LendingClub has asked us to help her with evaluating models for credit
 ![EEADBC](https://github.com/LindsayTeeters/Challenge_17/blob/main/Resources/Risk%20Ensemble%20Classification%20Report.png)
 
 
-<b><i> Precision Scores </i></b>
+
+<b><i> Precision Scores </i></b>(Reflected in picture above)
 
 * Naive Random Oversampling(RandomOverS): 
     - High Risk: .01%
@@ -57,7 +58,8 @@ Jill with LendingClub has asked us to help her with evaluating models for credit
     - Low Risk:   1%
 
 
-<b><i> Recall Scores </i></b>
+
+<b><i> Recall Scores </i></b>(Reflected in picture above)
 
 * Naive Random Oversampling(RandomOverS): 
     - High Risk: .62%

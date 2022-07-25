@@ -12,4 +12,4 @@ Jill with LendingClub has asked us to help her with evaluating models for credit
 ----------------------------------------------------------------
 
 ## Results
-<b> <i> Balanced Accuracy Scores </i> </b>
+<b><i> Balanced Accuracy Scores </i></b>

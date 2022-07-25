@@ -35,6 +35,7 @@ Jill with LendingClub has asked us to help her with evaluating models for credit
 
 
 
+
 <b><i> Precision Scores </i></b>(Reflected in picture above)
 
 * Naive Random Oversampling(RandomOverS): 
@@ -59,6 +60,7 @@ Jill with LendingClub has asked us to help her with evaluating models for credit
 
 
 
+
 <b><i> Recall Scores </i></b>(Reflected in picture above)
 
 * Naive Random Oversampling(RandomOverS): 
@@ -74,8 +76,16 @@ Jill with LendingClub has asked us to help her with evaluating models for credit
     - High Risk: .60%
     - Low Risk:  .43%
 * Ensemble (B Random Forest Clas):
-    - High Risk: 
-    - Low Risk:   
+    - High Risk: .04%
+    - Low Risk:   1%
 * Ensemble (EE AdaBoost Clas): 
     - High Risk: 
     - Low Risk:   
+
+----------------------------------------------------------------------------------------------------------------
+
+## Summary
+
+The algorithms that had the best accuracy rate was the Easy Ensemble Adaboost with 93%. The runner up was Ensemble Balanced Random Forest Classifer with 78%
+
+

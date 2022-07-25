@@ -31,7 +31,7 @@ Jill with LendingClub has asked us to help her with evaluating models for credit
 ![EBFC](https://github.com/LindsayTeeters/Challenge_17/blob/main/Resources/Risk%20Ensemble%20Classification%20Report.png)
 
 * Ensemble (EE AdaBoost Clas): 93%
-![EEADBC](https://github.com/LindsayTeeters/Challenge_17/blob/main/Resources/Risk%20Ensemble%20Classification%20Report.png)
+![EEADBC](https://github.com/LindsayTeeters/Challenge_17/blob/main/Resources/Risk%20Ensemble%20AdaBoost%20Classification%20Report.png)
 
 
 

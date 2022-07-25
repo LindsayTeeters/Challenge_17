@@ -14,3 +14,12 @@ Jill with LendingClub has asked us to help her with evaluating models for credit
 
 ## Results
 <b><i> Balanced Accuracy Scores </i></b>
+
+* Naive Random Oversampling(RandomOverS): 65%
+* Oversampling (SMOTE): 62%
+* Undersampling (Cluster Centroids): 51%
+* Combination (SMOTEENN): 51%
+* Ensemble (B Random Forest Clas): 78%
+* Ensemble (EE AdaBoost Clas): 93%
+
+<b><i> Precision/Recall Scores </i></b>
